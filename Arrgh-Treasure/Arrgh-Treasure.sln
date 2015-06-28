@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrgh-Treasure", "Arrgh-Treasure.csproj", "{C6AC7800-7310-4D65-AE11-B596F4FE1E4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6AC7800-7310-4D65-AE11-B596F4FE1E4F}.Debug|Any CPU.ActiveCfg = Debug|iPhoneSimulator
+		{C6AC7800-7310-4D65-AE11-B596F4FE1E4F}.Debug|Any CPU.Build.0 = Debug|iPhoneSimulator
+		{C6AC7800-7310-4D65-AE11-B596F4FE1E4F}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{C6AC7800-7310-4D65-AE11-B596F4FE1E4F}.Debug|iPhone.Build.0 = Debug|iPhone
+		{C6AC7800-7310-4D65-AE11-B596F4FE1E4F}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{C6AC7800-7310-4D65-AE11-B596F4FE1E4F}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{C6AC7800-7310-4D65-AE11-B596F4FE1E4F}.Release|Any CPU.ActiveCfg = Release|iPhone
+		{C6AC7800-7310-4D65-AE11-B596F4FE1E4F}.Release|Any CPU.Build.0 = Release|iPhone
+		{C6AC7800-7310-4D65-AE11-B596F4FE1E4F}.Release|iPhone.ActiveCfg = Release|iPhone
+		{C6AC7800-7310-4D65-AE11-B596F4FE1E4F}.Release|iPhone.Build.0 = Release|iPhone
+		{C6AC7800-7310-4D65-AE11-B596F4FE1E4F}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{C6AC7800-7310-4D65-AE11-B596F4FE1E4F}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
